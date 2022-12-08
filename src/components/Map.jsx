@@ -19,7 +19,7 @@ const Map = () => {
 
 
                 referrerPolicy="no-referrer-when-downgrade"
-                src={'https://www.google.com/maps/embed/v1/search?key=AIzaSyAS9chnZsICpZBazoXGQ_kBvmiRPUl_TGY&q=grocery+stores+in+' + city}
+                src={'https://www.google.com/maps/embed/v1/search?key={YOUR_API_KEY}&q=grocery+stores+in+' + city}
                 allowFullScreen>
             </iframe>
             <Link className='links' to={"/"}>Home</Link>
