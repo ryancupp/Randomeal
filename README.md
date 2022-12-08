@@ -24,3 +24,8 @@ React application that utilizes two API's. One to generate a random recipe for w
 [React-url]: https://reactjs.org/
 [Javascript]: https://img.shields.io/badge/Javascript-yellow?logo=javascript
 [Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+### Screenshots:
+![Home](button.png)
+![Home](random.png)
+![Home](map.png)
